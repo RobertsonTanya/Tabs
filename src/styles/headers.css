@@ -1,0 +1,14 @@
+.headers {
+    height: 25px;
+    width: 100%;
+}
+.tab {
+    border: 1px solid grey;
+    display: inline-block;
+    height: 25px;
+    text-align: center;
+    width: 100px;
+}
+.tab.selected {
+    background-color: aqua;
+}
